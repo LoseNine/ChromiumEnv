@@ -2,6 +2,7 @@
 小肩膀教育制作，小肩膀QQ24358757，持续输出高质量课程，chromium源码拉取并编译后制作的虚拟机
 > 源码拉取参照于 [官网](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md)  
 > 编译DEBUG版本chrome于 out/xjb目录  
+> 百度网盘地址：链接：https://pan.baidu.com/s/1cy2F53gSNco2_BnNyvfXmA   提取码：b432  
 
 ### 系统包含
 * vs2019  
